@@ -114,5 +114,6 @@
    kde4.kdelibs
    kde4.kdevelop
    kde4.kdevplatform
+   kde4.l10n.fr
  ];
 }
